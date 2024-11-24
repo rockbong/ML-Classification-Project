@@ -89,10 +89,6 @@ Evaluation metrics include accuracy, precision, recall, F1-score, and Root Mean 
    ```bash
    jupyter notebook Project_Code.ipynb
    ```
-4. 🌐 Deploy the Streamlit application:  
-   ```bash
-   streamlit run app.py
-   ```
 
 ---
 
